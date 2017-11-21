@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "baseUrl": "",
+        "checkJs": false,
+        "allowUnusedLabels": false
+    }
+}
